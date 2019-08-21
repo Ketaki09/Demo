@@ -1,2 +1,3 @@
-print("Hello")
-print("dsfsdf")
+import django
+
+print(django.get_version())
